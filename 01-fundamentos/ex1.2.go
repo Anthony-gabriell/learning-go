@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-var y = "Eren" // para que fosse compilado, delcaramos var fora do bloco
+var y = "Eren" // para que fosse compilado, declaramos var fora do bloco
 var z = "Levi"
 
 func main() {
