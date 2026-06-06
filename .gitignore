@@ -1,0 +1,27 @@
+# Binários compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Saída de testes
+*.test
+*.out
+
+# Diretórios de build
+/bin/
+/dist/
+
+# Arquivos de dependência (se usar vendoring)
+/vendor/
+
+# IDE / editores
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Go workspace
+go.work
+go.work.sum
