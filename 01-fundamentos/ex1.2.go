@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// declaracao da variavel fora do bloco
 var y = "Eren" // para que fosse compilado, declaramos var fora do bloco
 var z = "Levi"
 
